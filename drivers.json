@@ -1,0 +1,88 @@
+{
+  "drivers": [
+    {
+      "id": "0",
+      "name": "Selecionar piloto"
+    },
+    {
+      "id": "1",
+      "name": "Hamilton"
+    },
+    {
+      "id": "2",
+      "name": "Bottas"
+    },
+    {
+      "id": "3",
+      "name": "Verstappen"
+    },
+    {
+      "id": "4",
+      "name": "Albon"
+    },
+    {
+      "id": "5",
+      "name": "Leclerc"
+    },
+    {
+      "id": "6",
+      "name": "Vettel"
+    },
+    {
+      "id": "7",
+      "name": "Sainz"
+    },
+    {
+      "id": "8",
+      "name": "Norris"
+    },
+    {
+      "id": "9",
+      "name": "Gasly"
+    },
+    {
+      "id": "10",
+      "name": "Kvyat"
+    },
+    {
+      "id": "11",
+      "name": "Ricciardo"
+    },
+    {
+      "id": "12",
+      "name": "Ocon"
+    },
+    {
+      "id": "13",
+      "name": "Perez"
+    },
+    {
+      "id": "14",
+      "name": "Stroll"
+    },
+    {
+      "id": "15",
+      "name": "Raikkonen"
+    },
+    {
+      "id": "16",
+      "name": "Giovinazzi"
+    },
+    {
+      "id": "17",
+      "name": "Magnussen"
+    },
+    {
+      "id": "18",
+      "name": "Grosjean"
+    },
+    {
+      "id": "19",
+      "name": "Russell"
+    },
+    {
+      "id": "20",
+      "name": "Latifi"
+    }
+  ]
+}
